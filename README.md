@@ -1,2 +1,1 @@
-Run this command after clone 'npm install'.
---Enjoy--
+Run this command after clone 'npm install'
